@@ -1,0 +1,10 @@
+.blue-box {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    top: 200px;
+    right: 300px;
+
+}
